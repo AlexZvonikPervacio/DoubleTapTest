@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Double Tap</string>
+
+    <string name="double_tap_succeed">Double tap detected</string>
+    <string name="double_tap_error">Double tap is not detected</string>
+    <string name="double_tap_coordinates">Double tap on X: %1$s Y: %2$s</string>
+    <string name="double_tap_log">Double tap detected on X: %1$s Y: %2$s</string>
+
+    <string name="double_tap_activity_hint">Tap here to test double tap whole activity</string>
+    <string name="double_tap_particular_view_hint">Tap here to test double tap on particular view</string>
+</resources>
